@@ -1,10 +1,14 @@
 ## Cryptoblogs
-In short, cryptoblogs are websites where you could start your own blog, while learning crypto for your posts or other activities. Main aspects or features of cryptoblogs are usually decentralization, open-sourceness, delegation system, community involvement and others. In another terms cryptoblogs can be described as a main alternative of centrally hosted blogs like Medium or even Wordpress/CMS-based personal blogs.
+In short, cryptoblogs are websites where you could start your own blog, while earning crypto for your posts or other activities. Main aspects or features of cryptoblogs are usually decentralization, open-sourceness, delegation system, community involvement and others. In another terms cryptoblogs can be described as a main alternative of centrally hosted blogs like Medium or even Wordpress/CMS-based personal blogs.
 
-If you know some cryptoblog that isn't listed here, feel free to create a pull request or write an issue so I add it.
+Web 3.0 is all about UGC or User-Generated Content. Such companies like Facebook, Google, YouTube and others are creating UGC platforms to track you and sell you something via the ads. This approach has a millions problems both with personal privacy, laws, censorship, and other topics. But this is not only single problem of theirs! They also don't pay you anything, not a single dime, for you to spend time there. While we all know that time is one of the most valuable assets for us all in the whole world.
+
+Contrary to this approach, cryptoblogs are also UGC platforms, but they (usually) don't gather any more information than you put there yourself. A big breath of fresh air. And what's even better, they ain't only trusting you with your own decisions, they also pay you for your posts (as people vote for them) as well as they allow you to fine-tune your privacy settings or even create an anonymous account to express your opinions without revealing identity at all. Finally, cryptoblogs allow you to take part in the system as a delegate, endpoint/frontend hoster, full node, miner, or others; so you can benefit from cryptoblogs in many different ways.
 
 ## Crypto socializing, mediablockchains
 I've tried to separate the list by blockchain that stands in the base of the project. One of the first and the most successful basis for cryptoblogs was Steemit. It was not the first cryptoblog ever, but just counting exact number of forks that worked on Steemit basis is actually a hard task. 
+
+If you know some cryptoblog that isn't listed here, feel free to create a pull request or write an issue so I add it.
 
 ## Updated
 This repo was last updated 26 january 2020. 
