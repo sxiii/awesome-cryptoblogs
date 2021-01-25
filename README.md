@@ -1,5 +1,5 @@
 ## Cryptoblogs
-In short, cryptoblogs are websites where you could start your own blog, while learning crypto for your posts or other activities. Main aspects or features of cryptoblogs are usually decentralization, open-sourceness, delegation system, community involvement and others.
+In short, cryptoblogs are websites where you could start your own blog, while learning crypto for your posts or other activities. Main aspects or features of cryptoblogs are usually decentralization, open-sourceness, delegation system, community involvement and others. In another terms cryptoblogs can be described as a main alternative of centrally hosted blogs like Medium or even Wordpress/CMS-based personal blogs.
 
 If you know some cryptoblog that isn't listed here, feel free to create a pull request or write an issue so I add it.
 
@@ -18,21 +18,26 @@ This repo was last updated 26 january 2020.
 6) This list includes platforms that are still alive as-of date of this post. Platforms that are defunct or closed are listed in the end of this list for histrotical purposes as well.
 
 ### Steemit-based platforms
+There was are about two dozens of steemit-based platforms in general, and about one dozen of them is still working
 Name | Purpose | Main crypto
 -|-|-
 Steemit | General-purpose, global cryptoblog | STEEM & Steem Dollars (earlier: Steem Backed Dollars (SBD))
+Hive | Popular steemit fork which was created to improve decentralization of the community |
 Golos.id | General-purpose, originally russian-language cryptoblog | Golos (GLS)
 Whaleshares.io | A steemit like platform with some new approaches and enhancments (communities, etc.) | WLS
-
-### EOS-based platforms
-Name | Purpose | Main crypto
--|-|-
-Voice.com | "Original" cryptoblogging platform from EOS developers and community | 
-
+VIZ.world | This cryptoblog takes another approach and allows you to motenize content on another platforms, such as YouTube, Telegram and others. Also originally forked from Steemit | VIZ
+Scorum.com | Sport-related cryptoblog with a cool redesigned interface as well as with support for picking the language of the articles themselves
+Serey.io | Cambodgia-based cryptoblog, visually appealing more like a newspaper
+Weku.io | Chinese-based cryptoblog
+Smoke.io | Another cryptoblog, this time about smoking culture
+Bearshares.com | A one-man created platform, another steemit fork
+WeYouMe |
+                                                         
 ### Other crypto-based
 Name | Purpose | Main crypto
 -|-|-
 Read.cash | Bitcoin cash-based cryptoblogging website
+Voice.com | "Original" cryptoblogging platform from EOS developers and community | 
 
 ### Twitter-alike services
 Name | Purpose | Main crypto
@@ -75,3 +80,8 @@ VOX.community | Another Russian-language Steemit community fork | N/A
 Commun.com | Yet another RU-community, but this one is EOS-based, closed in 2020 |
 VIT | Vice Industry Token was a steemit-based video porn hosting website | VIT
    
+### Comments welcome
+Please feel free to add your favourite or any other cryptoblogging, video, audio, books, films, arts related crypto platoform via either "Issues" or "Pull Request".
+
+### To-do list
+Add a script that allows users to fetch current monthly visitors to these cryptoblogs and see the approximate audience of them.
