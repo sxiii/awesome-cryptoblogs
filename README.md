@@ -52,6 +52,7 @@ Noise.cash | Bitcoincash donation-based collaborative twitter-alike platform | B
 ### Other/Unique Cryptoblogs
 Publish0x
 Minds
+Flote.app
 
 ### Decentralized Video Services
 Either video hostings, video streams, or both.
@@ -73,6 +74,8 @@ DSound - Soundsharing with Steem monetization (similar to Soundcloud).
 * ChainBB is a forum that uses the Steem currency; Golos.id also has it's own forum
 * dMania - Sharing-Platform for Memes and Jokes (similar to 9GAG).
 If you need related tools, mobile apps, blockchain explorers, forums, editors, cold wallets, and other good stuff - check out other awesome lists, for example, [this one](https://github.com/sxiii/awesome-steem).
+
+Please take a note that this list does not include CPA/Ads networks, even if they are crypto-based. The only included sites are those where you can place "your piece" of content and earn something from this action.
 
 ### Defunct / Problematic / Closed cryptoblogs
 All platforms BEFORE this title are in active state to the date of this post. However, the platforms below are "on pause", "defunct" or "closed".
