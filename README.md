@@ -17,25 +17,23 @@ This repo was last updated 26 january 2020.
 1) I was thinking on whereever I should include some dynamic information like platform ranking. But this type of info got outdated fast, so I decided not to add it. 
 2) The only thing that isn't frequently changing is crypto that's working for inside blockchain transactions, so I decided to include that. However, bear in mind, that some of Cryptoblogs are also building their token ecosystem (they usually call their tokens "User Issued Assets" or UIA), and I am not including UIA's in this list.
 3) I also included crypto-videoblogs for several reasons. Some of them are: cryptovideoblogs are frequently based on cryptoblogs basis, as well as topic is very close.
-4) If somebody knows musical, books, films sharing crypto networks, please let me know (except for Torrents, obviously), and I will include them as well.
+4) If somebody knows musical, books, films sharing crypto networks, please let me know (except for Torrents, obviously), and I will include them.
 5) I am not adding crypto-games in here, as this will be a pretty long list, especially with ETH and Steemit games that was there or that are still there.
 6) This list includes platforms that are still alive as-of date of this post. Platforms that are defunct or closed are listed in the end of this list for histrotical purposes as well.
+7) Also, I am not including "... power" (voting power, steem power, hive power etc.) into the "Main crypto" list, as they are not directly withdrawable, so, "less liquid assets".
 
 ### Steemit-based platforms
 There was are about two dozens of steemit-based platforms in general, and about one dozen of them is still working
 Name | Purpose | Main crypto
 -|-|-
 Steemit | General-purpose, global cryptoblog | STEEM & Steem Dollars (earlier: Steem Backed Dollars (SBD))
-Hive | Popular steemit fork which was created to improve decentralization of the community |
-Golos.id | General-purpose, originally russian-language cryptoblog | Golos (GLS)
+Hive | Popular steemit fork which was created to improve decentralization of the community | Hive, Hive Dollars
+Golos.id | General-purpose, originally russian-language cryptoblog | ГОЛОС (GOLOS), Золотой (GBG) 
 Whaleshares.io | A steemit like platform with some new approaches and enhancments (communities, etc.) | WLS
 VIZ.world | This cryptoblog takes another approach and allows you to motenize content on another platforms, such as YouTube, Telegram and others. Also originally forked from Steemit | VIZ
-Scorum.com | Sport-related cryptoblog with a cool redesigned interface as well as with support for picking the language of the articles themselves
-Serey.io | Cambodgia-based cryptoblog, visually appealing more like a newspaper
-Weku.io | Chinese-based cryptoblog
-Smoke.io | Another cryptoblog, this time about smoking culture
-Bearshares.com | A one-man created platform, another steemit fork
-WeYouMe |
+Scorum.com | Sport-related cryptoblog with a cool redesigned interface as well as with support for picking the language of the articles themselves | Scorum Coins
+Serey.io | Cambodgia-based cryptoblog, visually appealing more like a newspaper | Serey
+Smoke.io | Another cryptoblog, this time about smoking culture | Smoke
                                                          
 ### Other crypto-based
 Name | Purpose | Main crypto
@@ -84,9 +82,12 @@ Name | Purpose | Main crypto
 -|-|-
 golos.io | Was a Russian fork/mix-up between old Steemit-based and new EOS codebase | Golos, Golos Backed Gold (GBG)
 VOX.community | Another Russian-language Steemit community fork | N/A
-Commun.com | Yet another RU-community, but this one is EOS-based, closed in 2020 |
+Commun.com | Yet another RU-community, but this one is EOS-based, closed in 2020 | N/A
+Weku.io | WEKU was a Chinese-based cryptoblog based on Steemit, closed in the beginning of 2021 | N/A
 VIT | Vice Industry Token was a steemit-based video porn hosting website | VIT
-   
+WeYouMe | Alpha testing of another fork | N/A
+Bearshares.com | A one-man created platform, another steemit fork | Bears
+
 ### Comments welcome
 Please feel free to add your favourite or any other cryptoblogging, video, audio, books, films, arts related crypto platoform via either "Issues" or "Pull Request".
 
