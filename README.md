@@ -25,9 +25,14 @@ Golos.id | General-purpose, originally russian-language cryptoblog | Golos (GLS)
 Whaleshares.io | A steemit like platform with some new approaches and enhancments (communities, etc.) | WLS
 
 ### EOS-based platforms
-Voice.com
+Name | Purpose | Main crypto
+-|-|-
+Voice.com | "Original" cryptoblogging platform from EOS developers and community | 
 
-### Bitcoin cash-based
+### Other crypto-based
+Name | Purpose | Main crypto
+-|-|-
+Read.cash | Bitcoin cash-based cryptoblogging website
 
 ### Twitter-alike services
 Name | Purpose | Main crypto
@@ -65,7 +70,7 @@ All platforms BEFORE this title are in active state to the date of this post. Ho
 
 Name | Purpose | Main crypto
 -|-|-
-golos.io | It was a Russian fork and mix-up between old Steemit-based fork and new EOS codebase | Golos, Golos Backed Gold (GBG)
+golos.io | Was a Russian fork/mix-up between old Steemit-based and new EOS codebase | Golos, Golos Backed Gold (GBG)
 VOX.community | Another Russian-language Steemit community fork | N/A
 Commun.com | Yet another RU-community, but this one is EOS-based, closed in 2020 |
 VIT | Vice Industry Token was a steemit-based video porn hosting website | VIT
