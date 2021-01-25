@@ -19,6 +19,7 @@ This repo was last updated 26 january 2020.
 
 ### Steemit-based platforms
 Name | Purpose | Main crypto
+-|-|-
 Steemit | General-purpose, global cryptoblog | STEEM & Steem Dollars (earlier: Steem Backed Dollars (SBD))
 Golos.id | General-purpose, originally russian-language cryptoblog | Golos (GLS)
 Whaleshares.io | A steemit like platform with some new approaches and enhancments (communities, etc.) | WLS
@@ -30,6 +31,7 @@ Voice.com
 
 ### Twitter-alike services
 Name | Purpose | Main crypto
+-|-|-
 Zappl | Short Messaging service with Steem monetization (similar to Twitter) | STEEM
 Noise.cash | Bitcoincash donation-based collaborative twitter-alike platform | Bitcoin Cash
 
@@ -40,6 +42,7 @@ Minds
 ### Decentralized Video Services
 Either video hostings, video streams, or both.
 Name | Purpose | Main crypto
+-|-|-
 DTube | Video sharing platform with Steem monetization (similar to Youtube) | STEEM
 DLive | Live-Streaming service with Steem monetization (similar to Twitch) | STEEM
 LBRY | Library (LBRY) is it's own blockchain and video ecosystem that is decentralized contrary to YT | LBRY
@@ -61,6 +64,7 @@ If you need related tools, mobile apps, blockchain explorers, forums, editors, c
 All platforms BEFORE this title are in active state to the date of this post. However, the platforms below are "on pause", "defunct" or "closed".
 
 Name | Purpose | Main crypto
+-|-|-
 golos.io | It was a Russian fork and mix-up between old Steemit-based fork and new EOS codebase | Golos, Golos Backed Gold (GBG)
 VOX.community | Another Russian-language Steemit community fork | N/A
 Commun.com | Yet another RU-community, but this one is EOS-based, closed in 2020 |
